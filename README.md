@@ -23,5 +23,3 @@ SHoutout to VS Code lol
 
 License: 
 N/A (for now)
-
-test
