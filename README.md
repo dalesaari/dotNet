@@ -19,7 +19,7 @@ Contributing:
 Private, only intended contributor is myself.
 
 Credits: 
-SHoutout to VS Code lol
+Shoutout to VS Code!
 
 License: 
 N/A (for now)
