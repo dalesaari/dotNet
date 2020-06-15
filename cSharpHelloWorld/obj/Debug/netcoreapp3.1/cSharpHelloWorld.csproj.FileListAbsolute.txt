@@ -1,0 +1,13 @@
+C:\Users\dell\projects\dotNet\cSharpHelloWorld\bin\Debug\netcoreapp3.1\cSharpHelloWorld.exe
+C:\Users\dell\projects\dotNet\cSharpHelloWorld\bin\Debug\netcoreapp3.1\cSharpHelloWorld.deps.json
+C:\Users\dell\projects\dotNet\cSharpHelloWorld\bin\Debug\netcoreapp3.1\cSharpHelloWorld.runtimeconfig.json
+C:\Users\dell\projects\dotNet\cSharpHelloWorld\bin\Debug\netcoreapp3.1\cSharpHelloWorld.runtimeconfig.dev.json
+C:\Users\dell\projects\dotNet\cSharpHelloWorld\bin\Debug\netcoreapp3.1\cSharpHelloWorld.dll
+C:\Users\dell\projects\dotNet\cSharpHelloWorld\bin\Debug\netcoreapp3.1\cSharpHelloWorld.pdb
+C:\Users\dell\projects\dotNet\cSharpHelloWorld\obj\Debug\netcoreapp3.1\cSharpHelloWorld.csprojAssemblyReference.cache
+C:\Users\dell\projects\dotNet\cSharpHelloWorld\obj\Debug\netcoreapp3.1\cSharpHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\dell\projects\dotNet\cSharpHelloWorld\obj\Debug\netcoreapp3.1\cSharpHelloWorld.AssemblyInfoInputs.cache
+C:\Users\dell\projects\dotNet\cSharpHelloWorld\obj\Debug\netcoreapp3.1\cSharpHelloWorld.AssemblyInfo.cs
+C:\Users\dell\projects\dotNet\cSharpHelloWorld\obj\Debug\netcoreapp3.1\cSharpHelloWorld.dll
+C:\Users\dell\projects\dotNet\cSharpHelloWorld\obj\Debug\netcoreapp3.1\cSharpHelloWorld.pdb
+C:\Users\dell\projects\dotNet\cSharpHelloWorld\obj\Debug\netcoreapp3.1\cSharpHelloWorld.genruntimeconfig.cache
